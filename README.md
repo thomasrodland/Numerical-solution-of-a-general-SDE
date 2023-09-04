@@ -5,7 +5,7 @@ The repo contains the following files:
 
  - Normal_generator.m, provides the random number needed.
 
- - Euler_Maruyama.m, implements the Euler - Maruyama method.
+ - Euler_Maruyama.m, implements the Euler-Maruyama method.
 
  - Milstein.m, implements the Milstein method.
 
